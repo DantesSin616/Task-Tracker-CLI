@@ -1,0 +1,27 @@
+{
+  "name": "tasktrackercli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DantesSin616/Task-Tracker-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DantesSin616/Task-Tracker-CLI/issues"
+  },
+  "homepage": "https://github.com/DantesSin616/Task-Tracker-CLI#readme",
+  "bin": {
+    "myApp": "./src/app.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
+}
